@@ -1,6 +1,6 @@
 # PROGRAMAÇÃO EMBARCADA
 
-Essa pasta reúne códigos desenvolvidos durante as aulas de **Sistemas Embarcados (SE)**, no curso técnico de Desenvolvimento de Sistemas da **ETE FMC (2025)**.
+Essa pasta reúne códigos desenvolvidos durante as aulas de **Sistemas Embarcados (SE)**, ministrado pela Prof. Me. Ana Letícia Gonçalves, no curso técnico de Desenvolvimento de Sistemas da **ETE FMC (2025)**.
 
 ## Jogo da Memória
 
